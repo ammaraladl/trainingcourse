@@ -14,11 +14,13 @@ body {
     height: 65px;
     padding-top: 1px;
     position: absolute;
-    right: 48%;
+    right: 45%;
     top: 0;
     text-align: center;
 } 
-
+.search{
+    width: 50%;
+}
 .card .sign {
     color:
         rgb(45, 71, 88);
