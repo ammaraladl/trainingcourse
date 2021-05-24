@@ -33,14 +33,6 @@ body {
     border-radius: 10px;
 }
 
-.btn-submit:hover {
-    background-color:
-        white;
-    color:
-        rgb(24, 112, 152);
-    border: 1px solid rgb(24, 112, 152);
-}
-
 .banner {
     height: 160vh;
     background: linear-gradient(rgba(255, 255, 255, 0.1), rgba(255, 255, 255, 0.1)), url("../images/bg.png");
