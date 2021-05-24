@@ -1,0 +1,142 @@
+body {
+    direction: rtl;
+}
+
+.contact-header {
+    background-color: rgb(45, 71, 88);
+}
+
+.navbar {
+    background-color: rgb(24, 112, 152);
+}
+
+.navbar-brand {
+    height: 65px;
+    padding-top: 1px;
+    position: absolute;
+    right: 45%;
+    top: 0;
+    text-align: center;
+} 
+
+.card .sign {
+    color:
+        rgb(45, 71, 88);
+}
+
+.btn-submit {
+    background-color:
+        rgb(24, 112, 152);
+    color: white;
+    border-radius: 10px;
+}
+
+.btn-submit:hover {
+    background-color:
+        white;
+    color:
+        rgb(24, 112, 152);
+    border: 1px solid rgb(24, 112, 152);
+}
+
+.banner {
+    height: 160vh;
+    background: linear-gradient(rgba(255, 255, 255, 0.1), rgba(255, 255, 255, 0.1)), url("../images/bg.png");
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.sign-card {
+    border-radius: 0;
+}
+
+footer {
+    background-color: rgb(24, 112, 152);
+}
+
+.slides {
+    height: 30px;
+
+}
+
+.carousel-caption {
+    position: absolute;
+    top: 26%
+}
+
+.carousel-control-prev {
+    font-size: 3.5rem;
+}
+
+.carousel-control-next {
+    font-size: 3.5rem;
+}
+
+.rating-icon {
+    color: rgb(233, 181, 29);
+}
+
+h2 {
+    color:
+        rgb(45, 71, 88);
+}
+
+.form-control {
+    border-radius: 10px;
+}
+
+.course-icon {
+    font-size: 25px;
+    margin-top: 2px;
+    color:
+        rgb(45, 71, 88);
+}
+
+.acourse {
+    color:
+        rgb(45, 71, 88);
+}
+
+.acourse:hover {
+    color:
+        rgb(24, 112, 152);
+}
+
+.banner-course {
+    height: 70vh;
+    width: 100%;
+    background: linear-gradient(rgba(255, 255, 255, 0.1), rgba(255, 255, 255, 0.1)), url("../images/newcourse.png");
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.banner-course-content {
+    position: absolute;
+    top: 65%;
+}
+
+.description {
+    color:
+        rgb(24, 112, 152);
+    font-size: 20px;
+    font-weight: 400;
+}
+
+.link-course {
+    color:
+        rgb(24, 112, 152);
+}
+
+.link-course:hover {
+    color:
+        rgb(45, 71, 88);
+}
+
+.head-link-course {
+    color:
+        rgb(45, 71, 88);
+}
