@@ -32,6 +32,10 @@ body {
     color: white;
     border-radius: 10px;
 }
+.btn-submit:hover{
+    
+color: white;
+}
 
 .banner {
     height: 160vh;
